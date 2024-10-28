@@ -4,6 +4,7 @@
 #include <iostream>
 
 // This is a project that implements a chess game using the SFML library.
+// This is a test.
 
 enum class ChessPiece {
     KingWhite, QueenWhite, BishopWhite, KnightWhite, RookWhite, PawnWhite,
