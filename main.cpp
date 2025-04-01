@@ -1763,8 +1763,3 @@ restart:
 
     return 0;
 }
-
-//! de rezolvat en pessant
-//! sa fac checkmate, mai ales la alb
-//! sa fac sunetele
-//! final::: de organizat codul
